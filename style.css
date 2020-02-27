@@ -1,0 +1,40 @@
+.container{
+    margin-bottom: 120px;
+    
+}
+
+.see{
+    float: right;
+    color: #eb0915;
+    font-weight: bold;
+}
+.divide{
+    margin-bottom: 40px;
+}
+.buy{
+    background-color:black;
+    border-radius: 12px;
+    border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px
+  
+}
+.price{
+    font-weight: bolder;
+}
+.cat{
+    float: center ;
+}
+.category{
+    margin-right: 10px;
+    margin-left: 10px;
+    height: 300px;
+}
+#rightside{
+    align-content: flex-end;
+}
+
