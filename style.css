@@ -1,6 +1,6 @@
 .container{
     margin-bottom: 120px;
-    
+    /* margin-top: 50px; */
 }
 
 .see{
@@ -34,7 +34,12 @@
     margin-left: 10px;
     height: 300px;
 }
-#rightside{
-    align-content: flex-end;
+.box{
+    background-color:white;
+    width: 200px;
+    border:none ;
+    box-shadow:10px 10px whitesmoke ;
+    padding: 50px;
+    margin:10px ;
+  }
 }
-
